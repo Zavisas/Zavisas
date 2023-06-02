@@ -1,4 +1,4 @@
-## SOBRE MIM 🤖:
+## SOBRE MIM :
 
 ⌨️ Estou constantemente aprendendo, crescendo e aprimorando minhas habilidades de programação. Desde os fundamentos até as últimas tendências, estou sempre atualizado com as melhores práticas e tecnologias do setor. 
 
