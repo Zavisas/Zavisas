@@ -1,4 +1,4 @@
-## _🚀ABOUT ME:_
+## ABOUT ME: 🔮
 
 ⌨️ Estou constantemente aprendendo, crescendo e aprimorando minhas habilidades de programação. Desde os fundamentos até as últimas tendências, estou sempre atualizado com as melhores práticas e tecnologias do setor. 
 
@@ -12,7 +12,8 @@
 
 🎯 Junte-se a mim nesta jornada de aprendizado e crescimento! Vamos construir um futuro tecnológico brilhante juntos! ✨
 ##
-## _PROGRAMING:_
+
+🛠️ Tech Stack
 
 <div>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
@@ -20,10 +21,12 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" target="_blank"></a>
    <a href="" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" target="_blank"></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
- </div>
+ </div> 
  
- ## _SOCIAL MIDIAS:_
- 
+ ##
+
+🌐 Social Midias:
+
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
