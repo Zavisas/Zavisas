@@ -1,4 +1,4 @@
-## 🔮 ABOUT ME 
+## 🔮 ABOUT ME :
 
 
 ⌨️ Estou constantemente aprendendo, crescendo e aprimorando minhas habilidades de programação. Desde os fundamentos até as últimas tendências, estou sempre atualizado com as melhores práticas e tecnologias do setor. 
@@ -10,7 +10,7 @@
 💻 No meu GitHub, você encontrará projetos pessoais empolgantes, colaborações com colegas de classe e outras contribuições para a comunidade de desenvolvedores. Estou sempre aberto a feedback construtivo e adoraria colaborar em projetos inovadores. 🤝
 ##
 
-### 🛠️ Tech Stack
+### ⚔️ Tech Stack
 
 <div>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a><a href="" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" target="_blank"></a><a href="" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" target="_blank"></a><a href="" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" target="_blank"></a><a href="" target="_blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
@@ -18,7 +18,7 @@
  
 ---
 
-### 🌐 Social Midias:
+### 🌐 Social Midias
 
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -29,8 +29,14 @@
 
 ---
 
-### 📊 Tasks
+### 📈 Tasks
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zavisas&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=Zavisas&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+### 🛡️ Stats 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zavisas&show_icons=true&theme=radical)
