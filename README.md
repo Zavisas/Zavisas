@@ -1,4 +1,4 @@
-## 🔮 ABOUT ME :
+## 🛡️ ABOUT ME :
 
 
 ⌨️ Estou constantemente aprendendo, crescendo e aprimorando minhas habilidades de programação. Desde os fundamentos até as últimas tendências, estou sempre atualizado com as melhores práticas e tecnologias do setor. 
@@ -31,12 +31,6 @@
 
 ### 📈 Tasks
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zavisas&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zavisas&theme=darkk&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=Zavisas&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
-### 🛡️ Stats 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zavisas&show_icons=true&theme=radical)
+[![](https://visitcount.itsvg.in/api?id=Zavisas&icon=0&color=0)](https://visitcount.itsvg.in) 
