@@ -1,11 +1,11 @@
 ## 🛡️ ABOUT ME :
 
 
-...Estou constantemente aprendendo, crescendo e aprimorando minhas habilidades de programação. Desde os fundamentos até as últimas tendências, estou sempre atualizado com as melhores práticas e tecnologias do setor. 
+Estou constantemente aprendendo, crescendo e aprimorando minhas habilidades de programação. Desde os fundamentos até as últimas tendências, estou sempre atualizado com as melhores práticas e tecnologias do setor. 
 
-...Estou empenhado em enfrentar desafios complexos e transformá-los em oportunidades de aprendizado. Acredito que a programação é a chave para desbloquear um mundo de infinitas possibilidades. 
+Estou empenhado em enfrentar desafios complexos e transformá-los em oportunidades de aprendizado. Acredito que a programação é a chave para desbloquear um mundo de infinitas possibilidades. 
 
-...Estou constantemente explorando novas áreas, desde desenvolvimento web e móvel até inteligência artificial e aprendizado de máquina. Tenho uma sede insaciável de conhecimento e estou disposto a enfrentar qualquer problema de frente. 
+Estou constantemente explorando novas áreas, desde desenvolvimento web e móvel até inteligência artificial e aprendizado de máquina. Tenho uma sede insaciável de conhecimento e estou disposto a enfrentar qualquer problema de frente. 
 
 💻 No meu GitHub, você encontrará projetos pessoais empolgantes, colaborações com colegas de classe e outras contribuições para a comunidade de desenvolvedores. Estou sempre aberto a feedback construtivo e adoraria colaborar em projetos inovadores. 
 
@@ -37,6 +37,6 @@
 
 ### 📈 Tasks
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zavisas&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zavisas&theme=white&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=Zavisas&icon=0&color=1)](https://visitcount.itsvg.in) 
