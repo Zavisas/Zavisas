@@ -14,11 +14,12 @@ Estou constantemente explorando novas áreas, desde desenvolvimento web e móvel
 ### ⚔️ Tech Stack
 
 <div style="display: inline_block"><br>
-<img align="center"alt="Zv-Java"height="100"width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-<img align="center"alt="Zv-Dart"height="100"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" />
+<img align="center"alt="Zv-Flutter"height="40"width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="center"alt="Zv-Flutter"height="40"width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img align="center"alt="Zv-Git"height="40"width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="center"alt="Zv-Python"height="40"width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="center"alt="Zv-Python"height="60"width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="center"alt="Zv-Python"height="60"width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
           
  </div>
  
